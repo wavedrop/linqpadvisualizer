@@ -13,6 +13,7 @@ namespace LINQPadVisualizer
     {
         public Form1()
         {
+            // Set the title of the form to the name of the application
             InitializeComponent();
         }
 
