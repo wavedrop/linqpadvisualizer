@@ -40,6 +40,8 @@ namespace LINQPadVisualizer
     {
         protected override void Show(IDialogVisualizerService windowService, IVisualizerObjectProvider objectProvider)
         {
+
+            
             // TODO: Get the object to display a visualizer for.
             //       Cast the result of objectProvider.GetObject() 
             //       to the type of the object being visualized.
